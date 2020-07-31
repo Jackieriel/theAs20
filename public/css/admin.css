@@ -1,0 +1,47 @@
+
+  a{
+    text-decoration: none !important;
+  }
+  .photo-frame{
+    width: 300px;
+    margin: auto 0px;
+  }
+
+
+  .center-item{
+    margin: auto
+  }
+
+  .photo-frame img{
+    width: 100%;
+  }
+
+
+  .btn-dblue { 
+    color: #ffffff; 
+    background-color: #1B23BD; 
+    border-color: #000A7A; 
+  } 
+   
+  .btn-dblue:hover, 
+  .btn-dblue:focus, 
+  .btn-dblue:active, 
+  .btn-dblue.active, 
+  .open .dropdown-toggle.btn-dblue { 
+    color: #ffffff; 
+    background-color: #18148C; 
+    border-color: #000A7A; 
+  } 
+   
+  .btn-dblue:active, 
+  .btn-dblue.active, 
+  .open .dropdown-toggle.btn-dblue { 
+    background-image: none; 
+  } 
+   
+
+   
+  .btn-dblue .badge { 
+    color: #1B23BD; 
+    background-color: #ffffff; 
+  }

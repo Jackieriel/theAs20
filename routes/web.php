@@ -14,9 +14,33 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.landing.index');
 });
+
+// Announcement guest users
+Route::get('/info', 'AnnouncementsController@view')->name('info');
+Route::get('/info/{id}', 'AnnouncementsController@showInfo')->name('showInfo');
+// end
+
+// Marriage Guest users
+Route::get('/programme', 'MarriagesController@view')->name('programme');
+
+// Pix guest
+Route::get('/pix', 'PicturesController@view')->name('pix');
+
+Route::resource('/direction', 'MapsController');
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+Route::group(['middleware' => 'auth'], function () {
+  Route::resource('/announcements', 'AnnouncementsController');
+  Route::resource('/marriage', 'MarriagesController');
+  Route::resource('/photos', 'PicturesController');
+});
+
+
+
+
