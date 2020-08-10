@@ -1,0 +1,51 @@
+:root {
+  --burgundy: #642e3e;
+  --rose: #e7bdbe;
+  --forest: rgb(34, 139, 34);
+  --dark-red: #f67e7d;
+}
+
+.ftco-section {
+  padding: 2em 0 !important;
+}
+
+a:hover {
+  color: var(--burgundy) !important;
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
+    1px 1px 0 #fff !important;
+}
+
+.strokeme {
+  /* color: white; */
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
+
+.strokeme-black {
+  /* color: white; */
+  text-shadow: -1px -1px 0 rgb(221, 215, 215), 1px -1px 0 rgb(221, 215, 215),
+    -1px 1px 0 rgb(221, 215, 215), 1px 1px 0 rgb(221, 215, 215);
+}
+
+.text-bulgar {
+  color: var(--burgundy) !important;
+}
+
+.text-rose {
+  color: var(--rose);
+}
+
+.text-forest {
+  color: var(--forest);
+}
+
+.text-dark-red {
+  color: var(--dark-red) !important;
+}
+
+@media (max-width: 991.98px) {
+    .ftco-navbar-light a{
+        color:var(--burgundy) !important;
+        border-bottom: rgb(192, 142, 177) solid 1px;
+ } 
+    }

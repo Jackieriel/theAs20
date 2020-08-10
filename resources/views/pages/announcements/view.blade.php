@@ -1,24 +1,29 @@
-@extends('layouts.app')
+@extends('layouts.app-2')
+
 
 @section('title')
-    Announcement
+Programme
 @endsection
 
 
 @section('content')
 
-<x-header />
+<x-header2 />
 
 
-<main id="contact">
-    <h1 class="lg-heading-edit">
-  
-      <span class="alt-text-secondary">@yield('title')</span>
-    </h1>
-    <p class="sm-heading">
-      We love to notify you of...
-    </p>
-  
+<!-- gallary -->
+<section class="ftco-section" id="gallery-section">
+    <div class="container-fluid px-md-4">
+        <div class="row justify-content-center headin">
+            <div class="col-md-12 text-center heading-section ftco-animate">
+                <span class="clone"></span><br>
+                <h2 class="mb-3">Announcements</h2>
+                {{-- <h3>Event Programme</h3> --}}
+            </div>
+        </div>
+
+
+    </div>
     <div class="my-grid-container">
         @forelse ($announcements as $announcement)
             <div class="product">
@@ -44,6 +49,15 @@
         {{-- pagination --}}
         {{ $announcements->appends(Request::all())->links() }}
     </div>
-  </main>
 
+</section>
+
+<!-- gallary  end-->
+
+
+<x-footer />
+
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAio8WdfpnOBxQR2y8nQURoHJWeSynBx5I&callback=initMap">
+    </script>
 @endsection

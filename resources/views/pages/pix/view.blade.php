@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-2')
 
 
 @section('title')
@@ -8,54 +8,51 @@ Photos Speak
 
 @section('content')
 
-<x-header />
-
-<div class="container">
-    @if (isset($photos) && count($photos) > 0)
-    <main id="work">
-
-        <h1 class="lg-heading-edit">
-            Photo
-            <span class="alt-text-secondary">Speak</span>
-        </h1>
-        {{-- <p class="sm-heading">
-            Photo Speaks...
-        </p> --}}
+<x-header2 />
 
 
-        <!-- Page Content -->
-        <div class="container">
-
-            <hr class="mb-5">
-
-            <div class="row text-center text-lg-left">
-                @foreach ($photos as $key => $photo)
-
-                <div class="col-lg-3 col-md-4 col-6">
-                    <a href="{{$photo->image}}" target="_blank" class="d-block mb-4 h-100 photospeak"
-                        title="view Photo">
-                        <img src="{{ $photo ? asset($photo->image) : 'link_to_default_image' }}"
-                            alt="{{$photo ? $photo->name : '' }}" srcset=""  class="img-fluid img-thumbnail">
-                    </a>
-                </div>
-
-                @endforeach
-            </div>
-
-            {{-- pagination --}}
-            {{ $photos->appends(Request::all())->links() }}
-            @else
-            <!-- /.container -->
-            <div class="card">
-                <div class="card-body">
-                    <h4 class="card-title">No photos yet!</h4>
-                </div>
+<!-- gallary -->
+<section class="ftco-section" id="gallery-section">
+    <div class="container-fluid px-md-4">
+        <div class="row justify-content-center pb-5">
+            <div class="col-md-12 text-center heading-section ftco-animate">
+                <span class="clone">Photos</span>
+                <h2 class="mb-3">Gallery</h2>
             </div>
         </div>
-    </main>
-    @endif
-</div>
+        @if (isset($photos) && count($photos) > 0)
 
+        <div class="row">
+            @foreach ($photos as $key => $photo)
+            <div class="col-md-3 ftco-animate ">
+                <a href="{{$photo->image}}"
+                    class="gallery img image-popup d-flex align-items-center justify-content-center"
+                    style="background-image: url({{ $photo ? asset($photo->image) : 'link_to_default_image' }});">
+                    <div class="icon d-flex align-items-center justify-content-center"><span
+                            class="ion-ios-image"></span></div>
+                </a>
+            </div>
+            @endforeach
+
+        </div>
+        {{-- pagination --}}
+        {{ $photos->appends(Request::all())->links() }}
+        @else
+
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">No photos yet!</h4>
+            </div>
+        </div>
+
+    </div>
+    @endif
+</section>
+
+<!-- gallary  end-->
+
+
+<x-footer />
 
 
 @endsection
