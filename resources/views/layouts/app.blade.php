@@ -38,7 +38,11 @@
     
     <link href="{{ asset('css/fontawesome/css/all.css') }}" rel="stylesheet">
 
-   
+  <style>
+    body{
+      background: url(images/bb.jpg);
+    }
+  </style>
 
     
 </head>
