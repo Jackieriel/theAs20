@@ -9765,3 +9765,41 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    /* Media */
+
+  #myDIV { 
+    display: none;
+    position: fixed;
+    z-index: 11;
+    top: 60px;
+    right: 24px;
+    overflow: hidden;
+	  transition:opacity 0.3s;
+    max-width: 320px;
+	  width: 100%;
+  }
+
+  .music-btn{
+    cursor: pointer;
+    z-index: 11;
+    position:absolute;
+		right:16px;
+		margin:5px 0 0 0;
+    font-size:16px;
+    color:var(--red);
+  }
+
+  @media only screen and (max-width: 768px) {
+   
+    .music-btn{
+      top: 66px;
+    }
+
+    #myDIV { 
+      top: 73px;
+      /* right: -8px; */
+      
+
+    }
+}

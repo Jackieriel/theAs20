@@ -72,6 +72,20 @@
      <script src="{{ asset('js/hockup/js/google-map.js') }}"></script>
      
      <script src="{{ asset('js/hockup/js/main.js') }}"></script>
+
+
+{{-- music toggle --}}
+
+<script>
+  function myFunction() {
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+  }
+  </script>
  
 </body>
 </html>
