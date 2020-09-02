@@ -55,24 +55,27 @@ Home
         <div class="row">
           <div class="col-md-6 text-center d-flex align-items-stretch">
             <div class="bride-groom ftco-animate">
-              <div class="img" style="background-image: url(images/hockup/images/groom.jpg);"></div>
+              <div class="img" style="background-image: url(images/4.jpg);"></div>
               <div class="text mt-4 px-4">
                 <h2>Idorenyin Amaunam</h2>
                 <h4>About My Lady</h4>
-                <p>A very firm young man, made calm by a very reasonable and collected young lady. I am also very vocal,
-                  aspiring/inspiring, knowledge seeking, teachable and humble. who believes that the sun, moon and stars
-                  will know his name.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
               </div>
             </div>
           </div>
           <div class="col-md-6 text-center d-flex align-items-stretch">
             <div class="bride-groom ftco-animate">
-              <div class="img" style="background-image: url(images/hockup/images/bride.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text mt-4 px-4">
                 <h2>Emem Udofia</h2>
                 <h4>About my Man</h4>
-                <p>Best gift GOD has given me. A very unassuming, calm, intelligent, collected, humble and caring young
-                  lady who believes in live and lets live. </p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
               </div>
             </div>
           </div>
@@ -103,13 +106,21 @@ Home
             <div class="timeline-panel ftco-animate text-md-right">
               <div class="overlay"></div>
               <div class="timeline-heading">
-                <span class="date">2011</span>
-                <h3 class="timeline-title">First We Meet</h3>
+                <!-- <span class="date">2011</span> -->
+                <h3 class="timeline-title">How We Met</h3>
               </div>
               <div class="timeline-body">
-                <p>We first met at the University of Calabar, about 2011. At the time, I was leaving the University when
-                  she
-                  was getting to the second year.</p>
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
               </div>
             </div>
           </li>
@@ -118,12 +129,20 @@ Home
             <div class="timeline-panel ftco-animate">
               <div class="overlay overlay-2"></div>
               <div class="timeline-heading">
-                <span class="date">April, 2012</span>
-                <h3 class="timeline-title">First Date</h3>
+                <!-- <span class="date">April, 2012</span> -->
+                <h3 class="timeline-title">First Dinner</h3>
               </div>
               <div class="timeline-body">
-                <p>This was about April 2012. I had to come from my place of primary assignment (Ondo State) as a youth
-                  corps member, to see her at Calabar.</p>
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ull
               </div>
             </div>
           </li>
@@ -132,12 +151,20 @@ Home
             <div class="timeline-panel ftco-animate text-md-right">
               <div class="overlay"></div>
               <div class="timeline-heading">
-                <span class="date">2012</span>
-                <h3 class="timeline-title">In A Relationship</h3>
+                <!-- <span class="date">2012</span> -->
+                <h3 class="timeline-title">Our Holidays</h3>
               </div>
               <div class="timeline-body">
-                <p>We’ve been in relationship since 2012. Though because of my idiocy, we paused briefly for a year and
-                  few months between 2017/2018</p>
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ull
               </div>
             </div>
           </li>
@@ -146,11 +173,20 @@ Home
             <div class="timeline-panel ftco-animate">
               <div class="overlay overlay-2"></div>
               <div class="timeline-heading">
-                <span class="date">February 8, 2020</span>
-                <h3 class="timeline-title">We're Engaged</h3>
+                <!-- <span class="date">February 8, 2020</span> -->
+                <h3 class="timeline-title">The Proposal</h3>
               </div>
               <div class="timeline-body">
-                <p>We got engaged on February 8th, 2020.</p>
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
+                  fugit?</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
+                  animi laboriosam
+                  reiciendis ull
               </div>
             </div>
           </li>
@@ -231,7 +267,7 @@ Home
         <div class="carousel-friends owl-carousel ftco-owl ftco-animate">
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/groom-men-1.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Mark Tomy</h3>
                 <span>Groomsmen</span>
@@ -240,7 +276,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/groom-men-2.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>John Henceworth</h3>
                 <span>Groomsmen</span>
@@ -249,7 +285,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/groom-men-3.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Rey Cooper</h3>
                 <span>Groomsmen</span>
@@ -258,7 +294,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/groom-men-4.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Robert Chan</h3>
                 <span>Groomsmen</span>
@@ -267,7 +303,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/bridesmaid-1.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Rose Jones</h3>
                 <span>Bridesmaid</span>
@@ -276,7 +312,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/bridesmaid-2.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Mary Dell</h3>
                 <span>Bridesmaid</span>
@@ -285,7 +321,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/bridesmaid-3.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Alicia Brean</h3>
                 <span>Bridesmaid</span>
@@ -294,7 +330,7 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/hockup/images/bridesmaid-4.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Angel Worth</h3>
                 <span>Bridesmaid</span>
@@ -320,36 +356,36 @@ Home
     </div>
     <div class="row">
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/hockup/images/gallery-1.jpg')}}"
+        <a href="{{ asset('images/2.jpg')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/hockup/images/gallery-1.jpg);">
+          style="background-image: url(images/2.jpg);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/hockup/images/gallery-2.jpg')}}"
+        <a href="{{ asset('images/1.jpg')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/hockup/images/gallery-2.jpg);">
+          style="background-image: url(images/1.jpg);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/hockup/images/gallery-3.jpg')}}"
+        <a href="{{ asset('images/am.png')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/hockup/images/gallery-3.jpg);">
+          style="background-image: url(images/am.png);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/hockup/images/gallery-4.jpg')}}"
+        <a href="{{ asset('images/6.jpg')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/hockup/images/gallery-4.jpg);">
+          style="background-image: url(images/6.jpg);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
 
     </div>
-    <p class="text-center"><a href="{{url('/pix')}}" type="button" class="btn btn-primary">View more..</a></p>
+    <p class="text-center view-more"><a href="{{url('/pix')}}" type="button" class="btn btn-primary">View more..</a></p>
   </div>
 </section>
 

@@ -9803,3 +9803,7 @@ textarea.form-control {
 
     }
 }
+
+.view-more a:hover{
+ color: black !important;
+}

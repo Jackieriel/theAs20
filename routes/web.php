@@ -30,7 +30,11 @@ Route::get('/pix', 'PicturesController@view')->name('pix');
 
 Route::resource('/direction', 'MapsController');
 
-Auth::routes();
+
+Route::group(['prefix' => 'cpanel'], function() {
+  Route::auth();
+});
+// Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
