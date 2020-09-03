@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-2')
 
 @section('title')
     Announcement
@@ -6,19 +6,31 @@
 
 
 @section('content')
+<style>
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
 
-<x-header />
+  .ftco-section {
+    padding: 0em 0 !important;
+}
+}
 
+</style>
 
-<main id="contact">
-    <h1 class="lg-heading-edit">
-  
-      <span class="alt-text-secondary">@yield('title')</span>
-    </h1>
-    <p class="sm-heading">
-      We love to notify you of...
-    </p>
+<x-header2 />
+
+<section class="ftco-section">
+
+<main class="ftco-section" >
+    
     <div class="container">
+      <h1 class="lg-heading-edit">
+  
+        <span class="alt-text-secondary">@yield('title')</span>
+      </h1>
+      <p class="sm-heading">
+        We love to notify you of...
+      </p>
         <div class="row">
             <div class="col-lg-12 grid-margin stretch-card">
                 <div class="card">
@@ -40,5 +52,9 @@
     </div>
   
   </main>
+
+</section>
+  <x-footer />
+
 
 @endsection

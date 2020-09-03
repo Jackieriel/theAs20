@@ -8,6 +8,17 @@ Programme
 
 @section('content')
 
+<style>
+    @media only screen and (max-width: 768px) {
+        /* For mobile phones: */
+    
+      .ftco-section {
+        padding: 0em 0 !important;
+    }
+    }
+    
+    </style>
+
 <x-header2 />
 
 
