@@ -332,7 +332,7 @@ Home
             <div class="people text-center">
               <div class="img" style="background-image: url(images/edidiong.jpg);"></div>
               <div class="text">
-                <h3>Edidiong Ekwre</h3>
+                <h3>Edidiong Ekwere</h3>
                 <span>Brooms Men</span>
               </div>
             </div>
