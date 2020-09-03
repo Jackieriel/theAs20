@@ -7,7 +7,13 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }} - @yield('title')</title>
+    <title>{{ config('app.name', 'Laravel') }} theAs20 - @yield('title')</title>
+    <meta name="description" content="theA's20
+    Emem & Idorenyin
+    You're Invited to the Holy Matrimony and Traditional Marriage.
+    28th, 26th November, 2020.">
+
+    <meta name="keywords" content="Idorenyin,Amaunam,theA's, Emem Udofia, Wedding">
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
