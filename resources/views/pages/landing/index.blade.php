@@ -68,7 +68,7 @@ Home
           </div>
           <div class="col-md-6 text-center d-flex align-items-stretch">
             <div class="bride-groom ftco-animate">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/emem1.jpg);"></div>
               <div class="text mt-4 px-4">
                 <h2>Emem Udofia</h2>
                 <h4>About my Man</h4>
@@ -267,45 +267,18 @@ Home
         <div class="carousel-friends owl-carousel ftco-owl ftco-animate">
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/edima.jpg);"></div>
               <div class="text">
-                <h3>Mark Tomy</h3>
-                <span>Groomsmen</span>
+                <h3>Edima Willie Tomy</h3>
+                <span>Bridesmaid</span>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/celina.jpg);"></div>
               <div class="text">
-                <h3>John Henceworth</h3>
-                <span>Groomsmen</span>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
-              <div class="text">
-                <h3>Rey Cooper</h3>
-                <span>Groomsmen</span>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
-              <div class="text">
-                <h3>Robert Chan</h3>
-                <span>Groomsmen</span>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
-              <div class="text">
-                <h3>Rose Jones</h3>
+                <h3>Lorem Lorem</h3>
                 <span>Bridesmaid</span>
               </div>
             </div>
@@ -314,25 +287,71 @@ Home
             <div class="people text-center">
               <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
-                <h3>Mary Dell</h3>
+                <h3>Lorem Lerem</h3>
                 <span>Bridesmaid</span>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/idorenyin.jpg);"></div>
               <div class="text">
-                <h3>Alicia Brean</h3>
-                <span>Bridesmaid</span>
+                <h3>Idorenyin Umoh</h3>
+                <span>Best Man</span>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/imo.jpg);"></div>
               <div class="text">
-                <h3>Angel Worth</h3>
+                <h3>Imo Udobong</h3>
+                <span>Grooms Men</span>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="people text-center">
+              <div class="img" style="background-image: url(images/mfon3.jpg);"></div>
+              <div class="text">
+                <h3>Mfon Umoren</h3>
+                <span>Brooms Men</span>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="people text-center">
+              <div class="img" style="background-image: url(images/bolaji2.jpg);"></div>
+              <div class="text">
+                <h3>Bolaji Opadiran</h3>
+                <span>Brooms Men</span>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="people text-center">
+              <div class="img" style="background-image: url(images/edidiong.jpg);"></div>
+              <div class="text">
+                <h3>Edidiong Ekwre</h3>
+                <span>Brooms Men</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="people text-center">
+              <div class="img" style="background-image: url(images/celina2.jpg);"></div>
+              <div class="text">
+                <h3>Celina Ideh</h3>
+                <span>Chief Bridesmaid</span>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="people text-center">
+              <div class="img" style="background-image: url(images/titilayo2.jpg);"></div>
+              <div class="text">
+                <h3>Titilayo Adewunmi</h3>
                 <span>Bridesmaid</span>
               </div>
             </div>
@@ -356,16 +375,16 @@ Home
     </div>
     <div class="row">
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/2.jpg')}}"
+        <a href="{{ asset('images/emem2.jpg')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/2.jpg);">
+          style="background-image: url(images/emem2.jpg);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/1.jpg')}}"
+        <a href="{{ asset('images/2.jpg')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/1.jpg);">
+          style="background-image: url(images/2.jpg);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
@@ -377,13 +396,12 @@ Home
         </a>
       </div>
       <div class="col-md-3 ftco-animate">
-        <a href="{{ asset('images/6.jpg')}}"
+        <a href="{{ asset('images/1.jpg')}}"
           class="gallery img image-popup d-flex align-items-center justify-content-center"
-          style="background-image: url(images/6.jpg);">
+          style="background-image: url(images/1.jpg);">
           <div class="icon d-flex align-items-center justify-content-center"><span class="ion-ios-image"></span></div>
         </a>
       </div>
-
     </div>
     <p class="text-center view-more"><a href="{{url('/pix')}}" type="button" class="btn btn-primary">View more..</a></p>
   </div>
