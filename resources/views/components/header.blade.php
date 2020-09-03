@@ -28,7 +28,7 @@
 
 <div id="myDIV">
   <audio controls autoplay>
-    <source src="http://waptrick.com/load-file/FT/9286/ringtones_new/fullmp3best/s/Shania_Twain_From_This_Moment_On.mp3" type="audio/mpeg">
+    <source src="media/Shania_Twain_From_This_Moment_On.mp3" type="audio/mpeg">
       Your browser does not support audio.
   </audio>
 </div>
