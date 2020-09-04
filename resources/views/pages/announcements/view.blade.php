@@ -52,7 +52,7 @@ Programme
    
             @empty
             
-            <p> No data found</p>
+            <p> No Announcement yet</p>
         @endforelse
                              
     </div>
