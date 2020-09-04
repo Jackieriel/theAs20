@@ -58,11 +58,9 @@ Home
               <div class="img" style="background-image: url(images/4.jpg);"></div>
               <div class="text mt-4 px-4">
                 <h2>Idorenyin Amaunam</h2>
-                <h4>About My Lady</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <h4>About My wife</h4>
+                <p>Best gift GOD has given me. A very unassuming, calm, intelligent, collected, humble and caring young
+                  lady who believes in live and let’s live. </p>
               </div>
             </div>
           </div>
@@ -71,11 +69,10 @@ Home
               <div class="img" style="background-image: url(images/emem1.jpg);"></div>
               <div class="text mt-4 px-4">
                 <h2>Emem Udofia</h2>
-                <h4>About my Man</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <h4>About my husband</h4>
+                <p>He is an irreplaceable gift from God to me. He is my complete package, intelligent,God fearing,
+                  smart, a complete gentleman, a very strong support system, the list is long. I feel blessed to have
+                  him all to myself forever.</p>
               </div>
             </div>
           </div>
@@ -111,16 +108,10 @@ Home
               </div>
               <div class="timeline-body">
                 <i> <span class="fa fa-male date"></span> Idorenyin</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <p>I first met her through a friend at the University of Calabar, about 2012.</p>
                 <hr>
                 <i><span class="fa fa-female date"></span> Emem</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <p>I met him through a very good friend of mine at the University of Calabar.</p>
               </div>
             </div>
           </li>
@@ -134,15 +125,10 @@ Home
               </div>
               <div class="timeline-body">
                 <i> <span class="fa fa-male date"></span> Idorenyin</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <p>Can’t really remember…hahaha</p>
                 <hr>
                 <i><span class="fa fa-female date"></span> Emem</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ull
+                <p>I honestly can’t remember the date.</p>
               </div>
             </div>
           </li>
@@ -156,15 +142,10 @@ Home
               </div>
               <div class="timeline-body">
                 <i> <span class="fa fa-male date"></span> Idorenyin</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <p>Our holidays are mostly private affair. We spend long hours together and few external</p>
                 <hr>
                 <i><span class="fa fa-female date"></span> Emem</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ull
+                <p>Our holidays are quiet memorable and special but very private.</p>
               </div>
             </div>
           </li>
@@ -174,22 +155,118 @@ Home
               <div class="overlay overlay-2"></div>
               <div class="timeline-heading">
                 <!-- <span class="date">February 8, 2020</span> -->
-                <h3 class="timeline-title">The Proposal</h3>
+                <h3 class="timeline-title">First Date</h3>
               </div>
               <div class="timeline-body">
                 <i> <span class="fa fa-male date"></span> Idorenyin</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ullam. Quidem, qui earum! Velit possimus at eaque quae repellat tempore cum architecto non
-                  fugit?</p>
+                <p>This was about April 2012. Still at Calabar.</p>
                 <hr>
                 <i><span class="fa fa-female date"></span> Emem</i>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate, praesentium iusto
-                  animi laboriosam
-                  reiciendis ull
+                <p>First date was in calabar, it was a brief meeting.</p>
               </div>
             </div>
           </li>
+          <li class="animate-box">
+            <div class="timeline-badge" style="background-image:url(images/am.png);"></div>
+            <div class="timeline-panel ftco-animate">
+              <div class="overlay overlay-2"></div>
+              <div class="timeline-heading">
+                <!-- <span class="date">February 8, 2020</span> -->
+                <h3 class="timeline-title">In Relationship</h3>
+              </div>
+              <div class="timeline-body">
+                <i><span class="fa fa-female date"></span> <span class="fa fa-male date"></span> Emem/Idorenyin</i>
+                <p>We’ve been in relationship since 2012.</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted animate-box">
+            <div class="timeline-badge" style="background-image:url(images/am.png);"></div>
+            <div class="timeline-panel ftco-animate">
+              <div class="overlay overlay-2"></div>
+              <div class="timeline-heading">
+                <!-- <span class="date">February 8, 2020</span> -->
+                <h3 class="timeline-title">Got Engaged</h3>
+              </div>
+              <div class="timeline-body">
+                <i><span class="fa fa-female date"></span> <span class="fa fa-male date"></span> Emem/Idorenyin</i>
+                <p>We got engaged on February 8th, 2020.</p>
+              </div>
+            </div>
+          </li>
+          <li class="animate-box">
+            <div class="timeline-badge" style="background-image:url(images/am.png);"></div>
+            <div class="timeline-panel ftco-animate">
+              <div class="overlay overlay-2"></div>
+              <div class="timeline-heading">
+                <!-- <span class="date">February 8, 2020</span> -->
+                <h3 class="timeline-title">The big question feeling</h3>
+              </div>
+              <div class="timeline-body">
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>How I felt when I popped the question?
+                  certainly, I can’t described how I felt. You know it was a surprise stuff; so mixture of anxiety and
+                  thankfulness. But when she accepted, was sky glad. </p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>When he popped the question, I was speechless for long period of mins, I can’t describe in words how
+                  i felt. I said YES and that
+                  was the best YES ever.</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted animate-box">
+            <div class="timeline-badge" style="background-image:url(images/am.png);"></div>
+            <div class="timeline-panel ftco-animate">
+              <div class="overlay overlay-2"></div>
+              <div class="timeline-heading">
+                <!-- <span class="date">April, 2012</span> -->
+                <h3 class="timeline-title">Best Meal</h3>
+              </div>
+              <div class="timeline-body">
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>Her best meal is rice and rice</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>His best meal is pounded yam and white soup prepared with goat meat</p>
+              </div>
+            </div>
+          </li>
+          <li class="animate-box">
+            <div class="timeline-badge" style="background-image:url(images/am.png);"></div>
+            <div class="timeline-panel ftco-animate">
+              <div class="overlay overlay-2"></div>
+              <div class="timeline-heading">
+                <!-- <span class="date">April, 2012</span> -->
+                <h3 class="timeline-title">Best Color</h3>
+              </div>
+              <div class="timeline-body">
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>Hahaha, such a simplicity. Pink!</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>His best color is blue</p>
+              </div>
+            </div>
+          </li>
+          <li class="timeline-inverted animate-box">
+            <div class="timeline-badge" style="background-image:url(images/am.png);"></div>
+            <div class="timeline-panel ftco-animate">
+              <div class="overlay overlay-2"></div>
+              <div class="timeline-heading">
+                <!-- <span class="date">April, 2012</span> -->
+                <h3 class="timeline-title">Best Moment</h3>
+              </div>
+              <div class="timeline-body">
+                <i> <span class="fa fa-male date"></span> Idorenyin</i>
+                <p>My best moment with her is anytime we spend together.</p>
+                <hr>
+                <i><span class="fa fa-female date"></span> Emem</i>
+                <p>My best moment with him is every moment we spend together</p>
+              </div>
+            </div>
+          </li>
+
         </ul>
       </div>
     </div>
@@ -267,16 +344,16 @@ Home
         <div class="carousel-friends owl-carousel ftco-owl ftco-animate">
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/edima.jpg);"></div>
+              <div class="img" style="background-image: url(images/edima.jpeg);"></div>
               <div class="text">
-                <h3>Edima Willie Tomy</h3>
+                <h3>Edima Willie</h3>
                 <span>Bridesmaid</span>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/celina.jpg);"></div>
+              <div class="img" style="background-image: url(images/am.png);"></div>
               <div class="text">
                 <h3>Lorem Lorem</h3>
                 <span>Bridesmaid</span>
