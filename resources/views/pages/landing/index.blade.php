@@ -362,9 +362,9 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/emaido.jpg);"></div>
               <div class="text">
-                <h3>Lorem Lerem</h3>
+                <h3>Emaido Emmanuel</h3>
                 <span>Bridesmaid</span>
               </div>
             </div>
