@@ -353,9 +353,9 @@ Home
           </div>
           <div class="item">
             <div class="people text-center">
-              <div class="img" style="background-image: url(images/am.png);"></div>
+              <div class="img" style="background-image: url(images/anna.jpeg);"></div>
               <div class="text">
-                <h3>Lorem Lorem</h3>
+                <h3>Anna Renne</h3>
                 <span>Bridesmaid</span>
               </div>
             </div>
