@@ -55,15 +55,6 @@
     
 </head>
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-  
-  <div class="music-btn" onclick="myFunction()"><span class="fa fa-music"></span></div>
-
-  <div id="myDIV">
-    <audio controls autoplay>
-      <source src="media/Shania_Twain_From_This_Moment_On.mp3" type="audio/mpeg">
-        Your browser does not support audio.
-    </audio>
-  </div>
     
     {{-- <div id="app"> --}}
        
