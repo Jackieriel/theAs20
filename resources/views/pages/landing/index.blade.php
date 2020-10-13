@@ -238,7 +238,7 @@
                                 <div class="timeline-body">
                                     <i> <span class="fa fa-male date"></span> Idorenyin</i>
                                     <p><b><i>What's her best meal?</i></b> <br> 
-                                      Simple sturv, Rice, Rice, Rice and Rice… hahahahahah she just like her rice in many forms.</p>
+                                      Simple sturv, Rice, Rice, Rice and Rice… hahahahahah she just likes her rice in many forms.</p>
                                     <hr>
                                     <i><span class="fa fa-female date"></span> Emem</i>
                                     <p><b><i>What's his best meal?</i></b> <br>His best meal is pounded yam and white soup
