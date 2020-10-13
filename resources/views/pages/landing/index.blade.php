@@ -212,10 +212,10 @@
                                 <div class="timeline-body">
                                     <i> <span class="fa fa-male date"></span> Idorenyin</i>
                                     <p><b><i>How did you feel when you popped the question?</i></b> <br>
-                                        I was both anxious and happy. You know it was a surprise proposal so humanly I was
-                                        very anxious. In fact due to this I forgot everything I had planned saying. I was
-                                        just saying in my heart “LORD please let we not be on social media” hahahaha… But
-                                        she accepted, it was the biggest and best YES. Anxiety escape and joy took over I
+                                        I was both anxious and happy. You know t'was a surprise proposal, so humanly I was
+                                        very anxious. In fact due to this, I forgot everything I had planned saying. I was
+                                        just saying in my heart “LORD please, let we not be on social media” hahahaha… But
+                                        she accepted, it was the biggest and best YES. Anxiety escaped and joy took over. I
                                         began to smile like a big lion.
                                     </p>
                                     <hr>
