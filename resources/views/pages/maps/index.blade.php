@@ -30,7 +30,7 @@ Road Map
                         </script>
                         <input placeholder="Enter your starting address" type="text" name="saddr" required />
                         <!-- Starting address -->
-                        <input type="hidden" name="daddr" value="Primary school, Ikot Ubo" />
+                        <input type="hidden" name="daddr" value="16 Ibekwe Avenue, Eket" />
                     </div>
 
                     <div class="form-group">
