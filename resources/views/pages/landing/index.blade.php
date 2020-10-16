@@ -177,12 +177,14 @@
                                 <div class="overlay overlay-2"></div>
                                 <div class="timeline-heading">
                                     <!-- <span class="date">February 8, 2020</span> -->
-                                    <h3 class="timeline-title">In Relationship</h3>
+                                    <h3 class="timeline-title">What  do you both have in commond?</h3>
                                 </div>
                                 <div class="timeline-body">
                                     <i><span class="fa fa-female date"></span> <span class="fa fa-male date"></span>
                                         Emem/Idorenyin</i>
-                                    <p>We’ve been in relationship since 2012.</p>
+                                    <p>Same birth month, same state, same course of study, same religion,
+                                         and same skin complexion. Hahahahahahah..
+                                    </p>
                                 </div>
                             </div>
                         </li>
@@ -276,7 +278,7 @@
                                     <p>My best moment with her is anytime we spend together.</p>
                                     <hr>
                                     <i><span class="fa fa-female date"></span> Emem</i>
-                                    <p>My best moment with him is every moment we spend together</p>
+                                    <p>My best moment was when he secretly planned a surprise proposal and ask me to marry him.</p>
                                 </div>
                             </div>
                         </li>
