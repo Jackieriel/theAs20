@@ -199,7 +199,7 @@
                                 <div class="timeline-body">
                                     <i><span class="fa fa-female date"></span> <span class="fa fa-male date"></span>
                                         Emem/Idorenyin</i>
-                                    <p>We got engaged in february 8th, 2020</p>
+                                    <p>We got engaged on february 8th, 2020</p>
                                 </div>
                             </div>
                         </li>
@@ -216,7 +216,7 @@
                                     <p><b><i>How did you feel when you popped the question?</i></b> <br>
                                         I was both anxious and happy. You know t'was a surprise proposal, so humanly I was
                                         very anxious. In fact due to this, I forgot everything I had planned saying. I was
-                                        just saying in my heart “LORD please, let we not be on social media” hahahaha… But
+                                        just saying in my heart “LORD please, let we not be on social media” hahahaha… But when 
                                         she accepted, it was the biggest and best YES. Anxiety escaped and joy took over. I
                                         began to smile like a big lion.
                                     </p>
@@ -278,7 +278,7 @@
                                     <p>My best moment with her is anytime we spend together.</p>
                                     <hr>
                                     <i><span class="fa fa-female date"></span> Emem</i>
-                                    <p>My best moment was when he secretly planned a surprise proposal and ask me to marry him.</p>
+                                    <p>My best moment was when he secretly planned a surprise proposal and asked me to marry him.</p>
                                 </div>
                             </div>
                         </li>
@@ -308,7 +308,7 @@
                             <h3>Traditional Marriage</h3>
                             <p><span>Thursday, 26 November 2020</span><br><span>02:00 pm</span></p>
                             <p><span>@</span></p>
-                            <p><span>Mr Emmanuel Udofia's Compound, Ikot Ubo, Nsit Ubium LGA, AKS.</span></p>
+                            <p><span>Mr Emmanuel Udofia's Compound, Ikot Ubo, Nsit Ubium LGA, Akwa Ibom State.</span></p>
                             <!-- <p><span>Ikot Ubo, Nsit Ubium LGA</span></p> -->
                             <p><a href="{{ url('/direction') }}" class="btn-custom">See Map</a></p>
                         </div>
@@ -319,11 +319,11 @@
                         <div class="text text-center">
                             <span class="icon flaticon-wedding-kiss"></span>
                             <h3>Church Wedding</h3>
-                            <p><span>Saturday, 28 November, 2020</span><br><span>10:00 pm</span></p>
+                            <p><span>Saturday, 28 November, 2020</span><br><span>10:00 am</span></p>
                             <p>@</p>
                             <p><span>The Redeemed Christian Church Of God, Throne of Glory, <br>
                                     Akwa Ibom Province. 11 Provincial Headquarters, <br>
-                                    16 Ibekwe Avenue, Eket, AKS.</span>
+                                    16 Ibekwe Avenue, Eket, Akwa Ibom State.</span>
                             </p>
                             <!-- <p>11 Provincial Headquarters, Eket</p> -->
                             <p><a href="{{ url('/direction') }}" class="btn-custom">See Map</a></p>
@@ -335,8 +335,8 @@
                         <div class="text text-center">
                             <span class="icon flaticon-cake"></span>
                             <h3>Reception</h3>
-                            <p><span>Hotel Farlem</span></p>
-                            <p><span>Banquest Hall,<br>
+                            <p><span>Hotel Farlem</span><br>
+                            <span>Banquest Hall,<br>
                                     8 Archibong Street, Eket.</span></p>
                             <!-- <p><a href="#">+0 (123) 456 78 910</a></p>
                         <p><a href="#" class="btn-custom">See Map</a></p> -->
