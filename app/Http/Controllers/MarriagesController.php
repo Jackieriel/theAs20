@@ -21,7 +21,7 @@ class MarriagesController extends Controller
      */
     public function index()
     {
-        $marriages = Marriages::where('status','publish')->orderBy('updated_at', 'desc')->paginate(10);
+        $marriages = Marriages::orderBy('updated_at', 'desc')->paginate(10);
 
         // load the view and pass the nerds
         if (isset($message)) {
@@ -43,7 +43,7 @@ class MarriagesController extends Controller
     public function view()
     {
                 // load the view and pass the nerds
-        $marriages = Marriages::orderBy('updated_at', 'desc')->paginate(10);
+        $marriages = Marriages::where('status','publish')->orderBy('updated_at', 'desc')->paginate(10);
 
         // load the view and pass the nerds
         if (isset($message)) {
