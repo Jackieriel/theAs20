@@ -336,7 +336,7 @@
                             <span class="icon flaticon-cake"></span>
                             <h3>Reception</h3>
                             <p><span>Hotel Farlem</span><br>
-                            <span>Banquest Hall,<br>
+                            <span>Banquet Hall,<br>
                                     8 Archibong Street, Eket.</span></p>
                             <!-- <p><a href="#">+0 (123) 456 78 910</a></p>
                         <p><a href="#" class="btn-custom">See Map</a></p> -->
@@ -461,6 +461,11 @@
     <!-- people End -->
 
     <!-- gallary -->
+    <?php
+        $allPictures = \App\Models\Pictures::orderBy('created_at', 'desc')->limit(4)->get();
+    ?>
+    @if (count($allPictures) > 0)
+
     <section class="ftco-section" id="gallery-section">
         <div class="container-fluid px-md-4">
             <div class="row justify-content-center pb-5">
@@ -470,43 +475,25 @@
                 </div>
             </div>
             <div class="row">
+                @foreach ($allPictures as $item)
+
                 <div class="col-md-3 ftco-animate">
-                    <a href="{{ asset('images/emem2.jpg') }}"
+                    <a href="{{ asset($item->image) }}"
                         class="gallery img image-popup d-flex align-items-center justify-content-center"
-                        style="background-image: url(images/emem2.jpg);">
+                        style="background-image: url({{$item->image}});">
                         <div class="icon d-flex align-items-center justify-content-center"><span
                                 class="ion-ios-image"></span></div>
                     </a>
                 </div>
-                <div class="col-md-3 ftco-animate">
-                    <a href="{{ asset('images/2.jpg') }}"
-                        class="gallery img image-popup d-flex align-items-center justify-content-center"
-                        style="background-image: url(images/2.jpg);">
-                        <div class="icon d-flex align-items-center justify-content-center"><span
-                                class="ion-ios-image"></span></div>
-                    </a>
-                </div>
-                <div class="col-md-3 ftco-animate">
-                    <a href="{{ asset('images/am.png') }}"
-                        class="gallery img image-popup d-flex align-items-center justify-content-center"
-                        style="background-image: url(images/am.png);">
-                        <div class="icon d-flex align-items-center justify-content-center"><span
-                                class="ion-ios-image"></span></div>
-                    </a>
-                </div>
-                <div class="col-md-3 ftco-animate">
-                    <a href="{{ asset('images/1.jpg') }}"
-                        class="gallery img image-popup d-flex align-items-center justify-content-center"
-                        style="background-image: url(images/1.jpg);">
-                        <div class="icon d-flex align-items-center justify-content-center"><span
-                                class="ion-ios-image"></span></div>
-                    </a>
-                </div>
+
+                @endforeach
             </div>
             <p class="text-center view-more"><a href="{{ url('/pix') }}" type="button" class="btn btn-primary">View
                     more..</a></p>
         </div>
     </section>
+    
+    @endif
 
     <!-- gallary  end-->
 
