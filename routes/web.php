@@ -31,7 +31,7 @@ Route::get('/pix', 'PicturesController@view')->name('pix');
 Route::resource('/direction', 'MapsController');
 
 
-Route::group(['prefix' => 'cpanel'], function() {
+Route::group(['prefix' => 'author'], function() {
   Route::auth();
 });
 // Auth::routes();

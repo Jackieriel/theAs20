@@ -12,9 +12,9 @@
         style="height: 700px; background-image: url(images/copp.jpeg); background-size:cover; background-position: top center;"
         data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
-        <!-- <a class="player"
-                data-property="{videoURL:'https://www.youtube.com/watch?v=Mjjw19B7rMk',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default',optimizeDisplay:true}">
-              </a> -->
+         <a class="player"
+                data-property="{videoURL:'https://youtu.be/9jI_G9X0kFI',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:false, startAt:0, opacity:1, quality:'default',optimizeDisplay:true}">
+        </a> 
         <div class="container">
             <div class="row js-fullheight justify-content-center d-flex align-items-center">
                 <div class="col-md-12">
