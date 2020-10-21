@@ -417,9 +417,9 @@
                         </div>
                         <div class="item">
                             <div class="people text-center">
-                                <div class="img" style="background-image: url(images/bolaji2.jpg);"></div>
+                                <div class="img" style="background-image: url(images/Oluwatobi.jpeg);"></div>
                                 <div class="text">
-                                    <h3>Bolaji Opadiran</h3>
+                                    <h3>Oluwatobi Oluwu</h3>
                                     <span>Grooms Men</span>
                                 </div>
                             </div>
