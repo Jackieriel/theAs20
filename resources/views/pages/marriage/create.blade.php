@@ -62,6 +62,14 @@
           <label for="description">Programme:</label>
           <textarea name="description" class="form-control" id="description" rows="5" placeholder="Programme"></textarea>
         </div>
+        <div class="form-group">
+            <label for="status">Select status</label>
+            <select class="form-control" id="status" name="status" required>
+                <option value="publish" disabled selected>--Select--</option>
+                <option value="publish">Publish</option>
+              <option value="unpublish">Draft</option>
+            </select>
+        </div>
 
         <button type="submit" class="btn btn-primary">Submit Post</button>
       </form>

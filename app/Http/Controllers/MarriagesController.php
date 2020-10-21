@@ -77,7 +77,8 @@ class MarriagesController extends Controller
         $input = $request->all();
         $validator = Validator::make($request->all(), [
             'title' => 'required|string',
-            'description' => 'required|string'
+            'description' => 'required|string',
+            'status' => 'string'
         ]);
 
         // validate inputs
@@ -93,11 +94,13 @@ class MarriagesController extends Controller
                 $input['id'] = uniqid("pk", false);
                 $input['user_id'] = Auth::user()->id;
                 $marriage = Marriages::create($input);
+                
 
                 // redirect
                 Session::flash('success', 'Successfully created event programme!');
                 return Redirect::to('marriage');
             } catch (\Throwable $th) {
+
                 // dd($th);
                 Session::flash('error', 'Event programme creating failed!');
                 return back()->withErrors($th->getMessage());
@@ -159,6 +162,7 @@ class MarriagesController extends Controller
 
         $marriage ->title = $request->title;
         $marriage ->description = $request->description;
+        $marriage ->status = $request->status;
         $marriage ->updated_at =  \Carbon\Carbon::now();
         
 
@@ -170,7 +174,8 @@ class MarriagesController extends Controller
         $input = $request->input();
         $validator = Validator::make($request->input(), [
             'title' => 'required|string',
-            'description' => 'required|string'
+            'description' => 'required|string',
+            'status' => 'required|string'
         ]);
 
         // validate inputs

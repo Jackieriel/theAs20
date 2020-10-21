@@ -17,6 +17,7 @@ class CreateMarriagesTable extends Migration
             $table->id();
             $table->string('title');
             $table->string('description');
+            $table->string('status')->nullable()->default('publish');
 
             $table->unsignedBigInteger('user_id');
             $table->foreign('user_id')->references('id')->on('users');

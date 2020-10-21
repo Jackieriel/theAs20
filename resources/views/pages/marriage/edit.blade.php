@@ -64,6 +64,16 @@
           <label for="description">Programme:</label>
           <textarea name="description" class="form-control" id="description" rows="5" >{{ $marriage->description }}</textarea>
         </div>
+        <div class="form-group">
+            <label for="status">Select status</label>
+            <select class="form-control" id="status" name="status" required>
+                <option value="publish" disabled selected>--Select--</option>
+                <option value="publish" @if ($marriage->status == 'publish') selected @endif>Publish</option>
+                 <option value="unpublish" @if ($marriage->status == 'unpublish') selected @endif>Draft</option>
+            </select>
+        </div>
+
+
         <button type="submit" class="btn btn-primary">Update marriage</button>
       </form>
         </div>
