@@ -59,6 +59,16 @@
     {{-- <div id="app"> --}}
        
             @yield('content')
+
+             {{-- loader --}}
+            <div id="loader-wrapper">
+              <div id="loader"></div>
+              <div class="loader-section section-left"></div>
+                <div class="loader-section section-right"></div>
+            </div>
+
+            {{-- loader --}}
+
     {{-- </div> --}}
 
      <!-- Scripts -->
@@ -93,6 +103,27 @@
       x.style.display = "block";
     }
   }
+
+
+  // Loader
+
+document.onreadystatechange = function() { 
+            if (document.readyState !== "complete") { 
+                document.querySelector( 
+                  "body").style.visibility = "hidden"; 
+                document.querySelector( 
+                  "#loader-wrapper").style.visibility = "visible"; 
+            } else { 
+                document.querySelector( 
+                  "#loader-wrapper").style.display = "none"; 
+                document.querySelector( 
+                  "body").style.visibility = "visible"; 
+            } 
+        }; 
+
+
+
+// Loader
   </script>
  
 </body>
