@@ -13,7 +13,7 @@
         data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
          <a class="player"
-                data-property="{videoURL:'https://youtu.be/9jI_G9X0kFI',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:false, startAt:0, opacity:1, quality:'default',optimizeDisplay:true}">
+                data-property="{videoURL:'https://youtu.be/9jI_G9X0kFI',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default',optimizeDisplay:true}">
         </a> 
         <div class="container">
             <div class="row js-fullheight justify-content-center d-flex align-items-center">
