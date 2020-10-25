@@ -22,7 +22,18 @@ Photos Speak
         </div>
         @if (isset($photos) && count($photos) > 0)
 
+        <div class="my-video">
+            <h4>Our Proposal</h4>
+            <iframe width="420" height="345" src="https://www.youtube.com/embed/9jI_G9X0kFI">
+            </iframe>
+            <br>
+        </div>
+
+        <h4 class="text-center">Photo Speaks</h4>
         <div class="row">
+            {{-- <a class="player"
+                data-property="{videoURL:'https://youtu.be/9jI_G9X0kFI',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:false, startAt:0, opacity:1, quality:'default',optimizeDisplay:true}">
+            </a>  --}}
             @foreach ($photos as $key => $photo)
             <div class="col-md-3 ftco-animate ">
                 <a href="{{$photo->image}}"

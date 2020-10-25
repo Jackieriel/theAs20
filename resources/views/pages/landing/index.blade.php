@@ -177,7 +177,7 @@
                                 <div class="overlay overlay-2"></div>
                                 <div class="timeline-heading">
                                     <!-- <span class="date">February 8, 2020</span> -->
-                                    <h3 class="timeline-title">What  do you both have in commond?</h3>
+                                    <h3 class="timeline-title">What  do you both have in common?</h3>
                                 </div>
                                 <div class="timeline-body">
                                     <i><span class="fa fa-female date"></span> <span class="fa fa-male date"></span>

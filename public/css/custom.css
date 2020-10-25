@@ -193,3 +193,7 @@ a:hover {
 .no-js #loader-wrapper {
   display: none;
 }
+
+.my-video{
+  text-align: center;
+}
