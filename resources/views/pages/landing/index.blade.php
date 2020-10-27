@@ -12,9 +12,9 @@
         style="height: 700px; background-image: url(images/copp.jpeg); background-size:cover; background-position: top center;"
         data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
-         <a class="player"
+         {{-- <a class="player"
                 data-property="{videoURL:'https://youtu.be/9jI_G9X0kFI',containment:'#home', showControls:false, autoPlay:true, loop:true, mute:true, startAt:0, opacity:1, quality:'default',optimizeDisplay:true}">
-        </a> 
+        </a>  --}}
         <div class="container">
             <div class="row js-fullheight justify-content-center d-flex align-items-center">
                 <div class="col-md-12">
@@ -402,7 +402,7 @@
                                 <div class="img" style="background-image: url(images/imo.jpg);"></div>
                                 <div class="text">
                                     <h3>Imo Udobong</h3>
-                                    <span>Grooms Men</span>
+                                    <span>Grooms Man</span>
                                 </div>
                             </div>
                         </div>
@@ -411,7 +411,7 @@
                                 <div class="img" style="background-image: url(images/mfon3.jpg);"></div>
                                 <div class="text">
                                     <h3>Mfon Umoren</h3>
-                                    <span>Grooms Men</span>
+                                    <span>Grooms Man</span>
                                 </div>
                             </div>
                         </div>
@@ -420,7 +420,7 @@
                                 <div class="img" style="background-image: url(images/Oluwatobi.jpeg);"></div>
                                 <div class="text">
                                     <h3>Oluwatobi Oluwu</h3>
-                                    <span>Grooms Men</span>
+                                    <span>Grooms Man</span>
                                 </div>
                             </div>
                         </div>
@@ -429,7 +429,7 @@
                                 <div class="img" style="background-image: url(images/edidiong.jpg);"></div>
                                 <div class="text">
                                     <h3>Edidiong Ekwere</h3>
-                                    <span>Grooms Men</span>
+                                    <span>Grooms Man</span>
                                 </div>
                             </div>
                         </div>
