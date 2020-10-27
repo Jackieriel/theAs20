@@ -22,9 +22,9 @@ Photos Speak
         </div>
         @if (isset($photos) && count($photos) > 0)
 
-        <div class="my-video">
+        <div class="embed-responsive embed-responsive-16by9 my-video">
             <h4>Our Proposal</h4>
-            <iframe width="420" height="345" src="https://www.youtube.com/embed/9jI_G9X0kFI">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9jI_G9X0kFI">
             </iframe>
             <br>
         </div>
