@@ -19,11 +19,13 @@ Photos Speak
                 <span class="clone">Photos</span>
                 <h2 class="mb-3">Gallery</h2>
             </div>
+            
         </div>
+        <h4 class="text-center">Our Proposal</h4>
         @if (isset($photos) && count($photos) > 0)
-
+        
         <div class="embed-responsive embed-responsive-16by9 my-video">
-            <h4>Our Proposal</h4>
+            
             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9jI_G9X0kFI">
             </iframe>
             <br>
