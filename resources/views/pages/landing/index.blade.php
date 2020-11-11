@@ -9,7 +9,7 @@
     <x-header />
 
     <section id="home" class="video-hero js-fullheight"
-        style="height: 700px; background-image: url(images/copp.jpeg); background-size:cover; background-position: top center;"
+        style="height: 700px; background-image: url(images/aman.jpg); background-size:cover; background-position: top center;"
         data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
          {{-- <a class="player"
