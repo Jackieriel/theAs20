@@ -17,6 +17,11 @@ class MapsController extends Controller
         return view('pages.maps.index');
     }
 
+    public function tradition()
+    {
+        return view('pages.maps.tm');
+    }
+
     /**
      * Show the form for creating a new resource.
      *

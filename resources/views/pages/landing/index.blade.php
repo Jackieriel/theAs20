@@ -310,7 +310,7 @@
                             <p><span>@</span></p>
                             <p><span>Mr Emmanuel Udofia's Compound, Ikot Ubo, Nsit Ubium LGA, Akwa Ibom State.</span></p>
                             <!-- <p><span>Ikot Ubo, Nsit Ubium LGA</span></p> -->
-                            <p><a href="{{ url('/direction') }}" class="btn-custom">See Map</a></p>
+                            <p><a href="{{ url('/direction-tm') }}" class="btn-custom">See Map</a></p>
                         </div>
                     </div>
                 </div>
