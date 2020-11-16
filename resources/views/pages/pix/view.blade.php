@@ -26,7 +26,9 @@ Photos Speak
         
         <div class="embed-responsive embed-responsive-16by9 my-video">
             
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/i3MqJo4zTiM">
+            {{-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/i3MqJo4zTiM" loop="1"> --}}
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/i3MqJo4zTiM?playlist=i3MqJo4zTiM&loop=1">
+                {{-- https://www.youtube.com/embed/VIDEO_ID?playlist=VIDEO_ID&loop=1 --}}
                 {{-- <iframe width="853" height="480" src="https://www.youtube.com/embed/i3MqJo4zTiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}
             </iframe>
             <br>
