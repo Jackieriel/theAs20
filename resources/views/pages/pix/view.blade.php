@@ -26,7 +26,7 @@ Photos Speak
         
         <div class="embed-responsive embed-responsive-16by9 my-video">
             
-            <iframe class="embed-responsive-item" src="https://youtu.be/i3MqJo4zTiM">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/i3MqJo4zTiM">
                 {{-- <iframe width="853" height="480" src="https://www.youtube.com/embed/i3MqJo4zTiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> --}}
             </iframe>
             <br>
