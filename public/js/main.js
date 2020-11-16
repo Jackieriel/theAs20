@@ -40,12 +40,12 @@ function toggleMenu() {
   // Map
 
   // Initialize and add the map
-function initMap() {
+// function initMap() {
   // The location of 42 Liverpool Road
-  var st_gregory = {lat: 4.645070, lng: 7.921230};
+  // var st_gregory = {lat: 4.645070, lng: 7.921230};
   // The map, centered at 42 Liverpool Road
-  var map = new google.maps.Map(
-      document.getElementById('map'), {zoom: 4, center: st_gregory});
+  // var map = new google.maps.Map(
+      // document.getElementById('map'), {zoom: 4, center: st_gregory});
   // The marker, positioned at st_gregory
-  var marker = new google.maps.Marker({position: st_gregory, map: map});
+  // var marker = new google.maps.Marker({position: st_gregory, map: map});
 }

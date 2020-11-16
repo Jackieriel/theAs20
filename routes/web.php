@@ -30,7 +30,7 @@ Route::get('/pix', 'PicturesController@view')->name('pix');
 
 Route::resource('/direction', 'MapsController');
 
-Route::resource('/direction-tm', 'MapsController');
+Route::get('/direction-tm', 'MapsController@tradition');
 
 
 Route::group(['prefix' => 'author'], function() {

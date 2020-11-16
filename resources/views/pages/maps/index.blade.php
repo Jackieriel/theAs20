@@ -17,7 +17,7 @@ Road Map
         <div class="row justify-content-center pb-5">
             <div class="col-md-12 text-center heading-section ftco-animate">
                 <span class="clone"></span><br>
-                <h2 class="mb-3">Road Map to Event</h2>
+                <h2 class="mb-3">Road Map to White Wedding</h2>
             </div>
         </div>
 
