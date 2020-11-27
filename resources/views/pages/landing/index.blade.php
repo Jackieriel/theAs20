@@ -24,11 +24,15 @@
                         </div>
                         <span class="subheading">#theA's20</span>
                         <h1>Emem &amp; Idorenyin</h1>
-                        <div id="timer" class="d-flex">
+                        {{-- <div id="timer" class="d-flex">
                             <div class="time" id="days"></div>
                             <div class="time pl-3" id="hours"></div>
                             <div class="time pl-3" id="minutes"></div>
                             <div class="time pl-3" id="seconds"></div>
+                        </div> --}}
+                        
+                        <div class="text-center text-white">
+                            <p><span class="fancy-font">Got Married</span> <br><span>On the 28th November, 2020</span><br>Forever</p>
                         </div>
                     </div>
                 </div>

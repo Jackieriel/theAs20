@@ -44,14 +44,13 @@ a:hover {
 }
 
 @media (max-width: 991.98px) {
-    .ftco-navbar-light a{
-        color:var(--burgundy) !important;
-        border-bottom: rgb(192, 142, 177) solid 1px;
- } 
-    }
+  .ftco-navbar-light a {
+    color: var(--burgundy) !important;
+    border-bottom: rgb(192, 142, 177) solid 1px;
+  }
+}
 
-
-    /* Loader */
+/* Loader */
 
 #loader-wrapper {
   position: fixed;
@@ -111,26 +110,26 @@ a:hover {
 
 @-webkit-keyframes spin {
   0% {
-      -webkit-transform: rotate(0deg); /* Chrome, Opera 15+, Safari 3.1+ */
-      -ms-transform: rotate(0deg); /* IE 9 */
-      transform: rotate(0deg); /* Firefox 16+, IE 10+, Opera */
+    -webkit-transform: rotate(0deg); /* Chrome, Opera 15+, Safari 3.1+ */
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); /* Firefox 16+, IE 10+, Opera */
   }
   100% {
-      -webkit-transform: rotate(360deg); /* Chrome, Opera 15+, Safari 3.1+ */
-      -ms-transform: rotate(360deg); /* IE 9 */
-      transform: rotate(360deg); /* Firefox 16+, IE 10+, Opera */
+    -webkit-transform: rotate(360deg); /* Chrome, Opera 15+, Safari 3.1+ */
+    -ms-transform: rotate(360deg); /* IE 9 */
+    transform: rotate(360deg); /* Firefox 16+, IE 10+, Opera */
   }
 }
 @keyframes spin {
   0% {
-      -webkit-transform: rotate(0deg); /* Chrome, Opera 15+, Safari 3.1+ */
-      -ms-transform: rotate(0deg); /* IE 9 */
-      transform: rotate(0deg); /* Firefox 16+, IE 10+, Opera */
+    -webkit-transform: rotate(0deg); /* Chrome, Opera 15+, Safari 3.1+ */
+    -ms-transform: rotate(0deg); /* IE 9 */
+    transform: rotate(0deg); /* Firefox 16+, IE 10+, Opera */
   }
   100% {
-      -webkit-transform: rotate(360deg); /* Chrome, Opera 15+, Safari 3.1+ */
-      -ms-transform: rotate(360deg); /* IE 9 */
-      transform: rotate(360deg); /* Firefox 16+, IE 10+, Opera */
+    -webkit-transform: rotate(360deg); /* Chrome, Opera 15+, Safari 3.1+ */
+    -ms-transform: rotate(360deg); /* IE 9 */
+    transform: rotate(360deg); /* Firefox 16+, IE 10+, Opera */
   }
 }
 
@@ -194,6 +193,12 @@ a:hover {
   display: none;
 }
 
-.my-video{
+.my-video {
   text-align: center;
+}
+
+.fancy-font {
+  font-family: "Great Vibes", cursive;
+  font-size: 3vw;
+  color: #fff;
 }
