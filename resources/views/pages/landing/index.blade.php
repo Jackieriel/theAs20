@@ -32,7 +32,7 @@
                         </div> --}}
                         
                         <div class="text-center text-white">
-                            <p><span class="fancy-font">Got Married</span> <br><span>On the 28th November, 2020</span><br>Forever</p>
+                            <p><span class="fancy-font">Got Married</span> <br><span>On the 28th November, 2020</span><br>Forever.</p>
                         </div>
 
                         
