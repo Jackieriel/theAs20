@@ -31,9 +31,11 @@
                             <div class="time pl-3" id="seconds"></div>
                         </div> --}}
                         
-                        <div class="text-center text-white">
+                        {{-- <div class="text-center text-white">
                             <p><span class="fancy-font">Got Married</span> <br><span>On the 28th November, 2020</span><br>Forever</p>
-                        </div>
+                        </div> --}}
+
+                        
                     </div>
                 </div>
                 <!-- <section id="groom-bride-section"></section> -->
